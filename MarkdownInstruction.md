@@ -6,6 +6,9 @@ To highlited text italics it is nessesary to put star (*) or lower underframe (_
 
 To highlited text bold it is nessesary to put double star (**) or double lower underframe (__). For exapmle **bold** or __bold__. 
 
+Alernative way to highlited bold or italics needed to mix both ways. For exapmle _the text could be written as italics as **bold** at the same time_
+
+
 ## List
 
 ## Images
