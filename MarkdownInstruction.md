@@ -25,7 +25,7 @@ To add numbered lists needed to put numbers.
 
 ## Images
 
-To add images needed to do next: ![Hi, it's me](lesson1.png)
+To add images needed to do next: ![Hi, This is HW from first lesson](lesson1.png)
 ## Links
 
 ## Tables
