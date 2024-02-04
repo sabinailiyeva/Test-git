@@ -13,7 +13,7 @@ Alernative way to highlited bold or italics needed to mix both ways. For exapmle
 
 ## Images
 
-To add images needed to do next: ![]{}
+To add images needed to do next: ![Hi, it's me](me.jpg)
 ## Links
 
 ## Tables
