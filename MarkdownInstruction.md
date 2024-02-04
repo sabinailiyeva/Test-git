@@ -33,3 +33,5 @@ To add images needed to do next: ![Hi, This is HW from first lesson](lesson1.png
 ## Quotes
 
 ## Conclusion
+
+## Commands
