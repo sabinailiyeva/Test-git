@@ -11,7 +11,17 @@ Alernative way to highlited bold or italics needed to mix both ways. For exapmle
 
 ## List
 
-To add unnumbered list put (*)
+To add unnumbered lists needed to put (*) or symbol (+).
+Like this
+* First element
+* Second element
+* Third element
++ Forth element
+
+To add numbered lists needed to put numbers.
+1. First
+2. Second
+3. Third
 
 ## Images
 
