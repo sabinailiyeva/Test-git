@@ -39,4 +39,4 @@ To add images needed to do next: ![Hi, This is HW from first lesson](lesson1.png
 * git branch - add new branch
 * git checkout - switch to branch 
 
-GitHub - trying to pull function
+# GitHub - trying to pull function
